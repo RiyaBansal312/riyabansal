@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLJz0VYnIWmJT424RzyRza3zpje0hweKKZw&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyabansal312&label=Profile%20views&color=0e75b6&style=flat" alt="riyabansal312" /> </p>
 
 - 🌱 I’m currently learning **backend**
